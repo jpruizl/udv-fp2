@@ -1,2 +1,3 @@
-# udv-fp2
-Fundamentos de Programación 2 - UDV - 202103181
+# Fundamentos de Programación 2
+UDV 
+Juan Pablo Ruiz Luna - 202103181
