@@ -59,5 +59,3 @@ refrigerador.encender()
 refrigerador.conectar_red()
 refrigerador.mostrar_estado()
 
-
-
