@@ -8,3 +8,11 @@ class Vehiculo:
     def encender_motor(self):
         """Muestra el mensaje de encendido del motor."""
         print("Encendiendo motor.")
+
+    def __verificar_estado_general(self):
+        """Método privado destinado al uso interno de Vehiculo."""
+        print(
+            "El estado del vehículo es correcto, pero este mensaje "
+            "no podrá ser observado dado que se encuentra dentro "
+            "de un método privado."
+        )
